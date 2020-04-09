@@ -3,6 +3,9 @@
 // 必要無いもの...配列
 // でまとめると扱いやすいデータになる
 
+let msg = document.getElementById('hello');
+
+
 // アルバムデータの作成(写真画像とキャプションまとめたアルバム)
 // src(プロパティ) , msg(キャプション)
 let album = [

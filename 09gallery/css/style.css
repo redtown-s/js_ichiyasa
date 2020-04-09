@@ -1,5 +1,9 @@
 /* 全体のスタイルを調整 */
 body {
+  text-align: ;
+}
+
+ody {
   background-color: #444444;
   box-sizing: border-box;
   text-align: center;
@@ -30,11 +34,11 @@ body {
 }
 
 /* 画像を小さく、丸くする */
-.thumb img{
+.thumb img {
   border: 4px solid #fff;
-  border-radius:400px;
+  border-radius: 400px;
   box-shadow: 0 0 10px #000;
-  height:60px;
+  height: 60px;
   margin: 10px;
-  width: 60px;  
+  width: 60px;
 }

@@ -1,0 +1,17 @@
+/* 背景色を設定する */
+body {
+  background: #444;
+}
+
+/* スライドを中央に配置する */
+/* サイズを設定して中央に配置 */
+.slideshow{
+  width: 500px;
+  margin: auto;
+}
+
+/* 画像の幅を親の100%に */
+.slideshow img{
+  width: 100%;
+}
+
